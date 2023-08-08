@@ -14,18 +14,18 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | EF DevOps | [Sam Calder-Mason](https://github.com/samcm) | 
  | EF Geth | [Felix Lange](https://github.com/fjl) | 
  | EF Geth | [Gary Rong](https://github.com/rjl493456442) | 
- | EF Geth | [Guillaume Ballet](https://github.com/gballet) | 
  | EF Geth | [Jared Wasinger](https://github.com/jwasinger) | 
- | EF Geth | [Kevaundray](https://github.com/kevaundray) | 
  | EF Geth | [Marius van der Wijden](https://github.com/MariusVanDerWijden) | 
  | EF Geth | [Martin Swende](https://github.com/holiman) | 
  | EF Geth | [Matt Garnett](https://github.com/lightclient) | 
  | EF Geth | [Peter Szilagyi](https://github.com/karalabe) | 
+ | EF Geth | [Sina Mahmoodi](https://github.com/s1na) | 
  | EF Ipsilon | [Alex Beregszaszi](https://github.com/axic) | 
  | EF Ipsilon | [Andrei Maiboroda](https://github.com/gumb0) | 
  | EF Ipsilon | [Jose Hugo de la cruz Romero](https://github.com/hugo-dc) | 
  | EF Ipsilon | [Paweł Bylica](https://github.com/chfast) | 
  | EF Ipsilon | [Radosław Zagórowicz](https://github.com/rodiazet) | 
+ | EF JavaScript | [Amir Ghorbanian](https://github.com/scorbajio) | 
  | EF JavaScript | [Andrew Day](https://github.com/acolytec3) | 
  | EF JavaScript | [Gabriel](https://github.com/gabrocheleau) | 
  | EF JavaScript | [Holger Drewes](https://github.com/holgerd77) | 
@@ -51,16 +51,19 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | EF Research | [Carl Beekhuizen](https://github.com/CarlBeek) | 
  | EF Research | [Dankrad Feist](https://github.com/dankrad) | 
  | EF Research | [Dmitry Khovratovich](https://github.com/khovratovich) | 
+ | EF Research | [Domothy](https://github.com/domothyb) | 
  | EF Research | [Francesco d’Amato](https://github.com/fradamt) | 
  | EF Research | [George Kadianakis](https://github.com/asn-d6) | 
  | EF Research | [Hsiao-Wei Wang](https://github.com/hwwhww) | 
  | EF Research | [Justin Drake](https://github.com/justindrake) | 
+ | EF Research | [Luca Zanolini](https://github.com/luca-zanolini) | 
  | EF Research | [Mark Simkin](msimkin.github.io) | 
  | EF Research | [Pop](https://github.com/ppopth) | 
  | EF Research | [Zhenfei Zhang](https://github.com/zhenfeizhang) | 
  | EF Robust Incentives Group (RIG) | [Anders](https://github.com/anderselowsson) | 
  | EF Robust Incentives Group (RIG) | [Barnabé Monnot](https://github.com/barnabemonnot) | 
  | EF Robust Incentives Group (RIG) | [Caspar Schwarz-Schilling](https://github.com/casparschwa) | 
+ | EF Robust Incentives Group (RIG) | [Davide Crapis](https://github.com/dcrapis) | 
  | EF Robust Incentives Group (RIG) | [Julian Ma](https://github.com/Ma-Julian) | 
  | EF Security | [David Theodore](https://github.com/infosecual) | 
  | EF Security | [Fredrik Svantes](https://github.com/fredriksvantes) | 
@@ -70,12 +73,11 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | EF Testing | [Mario Vega](https://github.com/marioevz) | 
  | Erigon | [Alex Sharov](https://github.com/AskAlexSharov) | 
  | Erigon | [Andrey Ashikhmin](https://github.com/yperbasis) | 
- | Erigon | [Artem Vorotnikov](https://github.com/vorot93) | 
  | Erigon | [Giulio rebuffo](https://github.com/Giulio2002) | 
  | Erigon | [Michelangelo Riccobene](https://github.com/mriccobene) | 
  | Erigon | [Tullio Canepa](https://github.com/canepat) | 
  | Ethereum Cat Herders | [Pooja Ranjan](https://github.com/poojaranjan) | 
- | Hyperledger Besu | [Ameziane](https://github.com/ahamlat) | 
+ | Hyperledger Besu | [Ameziane Hamlat](https://github.com/ahamlat) | 
  | Hyperledger Besu | [Daniel Lehrner](https://github.com/daniellehrner) | 
  | Hyperledger Besu | [Danno Ferrin](https://github.com/shemnon) | 
  | Hyperledger Besu | [Fabio di Fabio](https://github.com/fab-10) | 
@@ -85,14 +87,13 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | Hyperledger Besu | [Jason Frame](https://github.com/jframe) | 
  | Hyperledger Besu | [Jiri Peinlich](https://github.com/gezero) | 
  | Hyperledger Besu | [Justin Florentine](https://github.com/jflo) | 
- | Hyperledger Besu | [Karim Taam](https://github.com/matkt) | 
  | Hyperledger Besu | [Sally MacFarlane](https://github.com/macfarla) | 
  | Hyperledger Besu | [Simon Dudley](https://github.com/siladu) | 
  | Hyperledger Besu | [Stefan Pingel](https://github.com/pinges) | 
  | Independent | [cheeky-gorilla](https://github.com/cheeky-gorilla) | 
  | Independent | [Jim McDonald](https://github.com/mcdee) | 
  | Lighthouse | [Adrian Manning](https://github.com/AgeManning) | 
- | Lighthouse | [Diva Martínez](https://github.com/divagant-martian) | 
+ | Lighthouse | [Anton Delaruelle](https://github.com/antondlr) | 
  | Lighthouse | [Mac Ladson](https://github.com/macladson) | 
  | Lighthouse | [Mark Mackey](https://github.com/ethDreamer) | 
  | Lighthouse | [Mehdi Zerouali](https://github.com/zedt3ster) | 
@@ -105,9 +106,11 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | Lodestar | [dapplion](https://github.com/dapplion) | 
  | Lodestar | [Gajinder Singh](https://github.com/g11tech) | 
  | Lodestar | [Nazar Hussain](https://github.com/nazarhussain) | 
+ | Lodestar | [Nico Flaig](https://github.com/nflaig) | 
  | Lodestar | [Phil Ngo](https://github.com/philknows) | 
  | Lodestar | [Tuyen Nguyen](https://github.com/tuyennhv) | 
  | Nethermind | [Alexey Osipov](https://github.com/flcl42) | 
+ | Nethermind | [Ayman Bouchared](https://github.com/Demuirgos) | 
  | Nethermind | [Daniel Celeda](https://github.com/dceleda) | 
  | Nethermind | [Jorge Mederos](https://github.com/jmederosalvarado) | 
  | Nethermind | [Kamil Chodoła](https://github.com/kamilchodola) | 
@@ -120,23 +123,28 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | Nethermind | [smartprogrammer](https://github.com/smartprogrammer93) | 
  | Nethermind | [Tanishq Jasoria](https://github.com/tanishqjasoria) | 
  | Nethermind | [Tomasz Stanczak](https://github.com/tkstanczak) | 
- | Nimbus | [Henri Dubois-Ferriere](https://github.com/henridf) | 
- | Prysmatic | [James He](https://github.com/james-prysm) | 
- | Prysmatic | [Kasey Kirkham](https://github.com/kasey) | 
- | Prysmatic | [Nishant Das](https://github.com/nisdas) | 
- | Prysmatic | [potuz](https://github.com/potuz) | 
- | Prysmatic | [Preston Van Loon](https://github.com/prestonvanloon) | 
- | Prysmatic | [Radosław Kapka](https://github.com/rkapka) | 
- | Prysmatic | [Raul Jordan](https://github.com/rauljordan) | 
- | Prysmatic | [Sammy Rosso](https://github.com/Saolyn) | 
- | Prysmatic | [Taran Singh](https://github.com/Taranpreet26311) | 
- | Prysmatic | [Terence Tsao](https://github.com/terencechain) | 
+ | Prysm | [James He](https://github.com/james-prysm) | 
+ | Prysm | [Kasey Kirkham](https://github.com/kasey) | 
+ | Prysm | [Nishant Das](https://github.com/nisdas) | 
+ | Prysm | [potuz](https://github.com/potuz) | 
+ | Prysm | [Preston Van Loon](https://github.com/prestonvanloon) | 
+ | Prysm | [Radosław Kapka](https://github.com/rkapka) | 
+ | Prysm | [Raul Jordan](https://github.com/rauljordan) | 
+ | Prysm | [Sammy Rosso](https://github.com/Saolyn) | 
+ | Prysm | [Taran Singh](https://github.com/Taranpreet26311) | 
+ | Prysm | [Terence Tsao](https://github.com/terencechain) | 
+ | Stateless Consensus | [Guillaume Ballet](https://github.com/gballet) | 
+ | Stateless Consensus | [Ignacio Hagiopan](https://github.com/jsign) | 
+ | Stateless Consensus | [Kevaundray](https://github.com/kevaundray) | 
+ | Status | [Csaba Kiraly](https://github.com/cskiraly) | 
  | Status | [Dustin Brody](https://github.com/tersec) | 
  | Status | [Etan Kissling](https://github.com/etan-status) | 
  | Status | [Eugene Kabanov](https://github.com/cheatfate) | 
+ | Status | [Henri Dubois-Ferriere](https://github.com/henridf) | 
  | Status | [Jacek Sieka](https://github.com/arnetheduck) | 
  | Status | [Jordan Hrycaj](https://github.com/mjfh) | 
  | Status | [Kim De Mey](https://github.com/kdeme) | 
+ | Status | [Leonardo Bautista-Gomez](https://github.com/leobago) | 
  | Status | [Zahary Karadzhov](https://github.com/zah) | 
  | Teku | [Ben Edgington](https://github.com/benjaminion) | 
  | Teku | [Courtney Hunter](https://github.com/courtneyeh) | 
@@ -149,6 +157,8 @@ For transparency purposes, we are disclosing each Guild member's team, the name/
  | TXRX | [Alex Vlasov](https://github.com/ericsson49) | 
  | TXRX | [Anton Nashatyrev](https://github.com/Nashatyrev) | 
  | TXRX | [Mikhail Kalinin](https://github.com/mkalinin) | 
+ | ConsenSys DDS | [Chenyi Zhang](https://github.com/czhang-fm) | 
+ | ConsenSys DDS | [Roberto Saltini](https://github.com/saltiniroberto) | 
 
 ## Addresses and Weights
 For member privacy, the order of weights below does not correspond to the names above. These addresses and weights will change over time as members change from full-time to part-time (or vice-versa), and as members are on/offboarded.
